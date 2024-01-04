@@ -2,7 +2,7 @@
   "name": "alurageek-api",
   "version": "1.0.0",
   "description": "Products for Alura Geek fake store api",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "node api/server.js"
   },
